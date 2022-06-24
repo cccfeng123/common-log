@@ -51,26 +51,5 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
     </dependencies>
-<!--    <repositories>-->
-<!--        <repository>-->
-<!--            <id>rdc-releases</id>-->
-<!--            <url>https://packages.aliyun.com/maven/repository/2229613-release-ZeSn2T/</url>-->
-<!--            <releases>-->
-<!--                <enabled>true</enabled>-->
-<!--            </releases>-->
-<!--            <snapshots>-->
-<!--                <enabled>false</enabled>-->
-<!--            </snapshots>-->
-<!--        </repository>-->
-<!--        <repository>-->
-<!--            <id>rdc-snapshots</id>-->
-<!--            <url>https://packages.aliyun.com/maven/repository/2229613-snapshot-fXmcyI/</url>-->
-<!--            <releases>-->
-<!--                <enabled>false</enabled>-->
-<!--            </releases>-->
-<!--            <snapshots>-->
-<!--                <enabled>true</enabled>-->
-<!--            </snapshots>-->
-<!--        </repository>-->
-<!--    </repositories>-->
+
 </project>
