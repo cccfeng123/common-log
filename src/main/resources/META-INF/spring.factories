@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.log.filter.RequestLogFilter,\
+  com.log.filter.TraceFilter,\
+  com.log.filter.RequestCacheFilter,\
+  com.log.configure.LogAutoConfigure
